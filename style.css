@@ -3,13 +3,3 @@ body {
     color:azure
     
 }
-
-.profile-picture{
-display: flex;
-width: 600px;
-height: 600px;
-justify-content: center;
-align-items: center;
-flex-shrink: 0;
-
-}
