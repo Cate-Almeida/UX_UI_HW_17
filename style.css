@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(0deg, rgba(35, 56, 140, 0.20) 39.79%, rgba(13, 11, 14, 0.20) 62.73%), #0C0A0D;
+    color:azure
+    
+}
+
+.profile-picture{
+display: flex;
+width: 600px;
+height: 600px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+
+}
